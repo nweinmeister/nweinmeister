@@ -1,5 +1,31 @@
 ### Hi there 👋
 
+## ⚡ What energizes me:
+- Coffee
+- Complex problems
+
+## ☠️ What makes me grumpy:
+- Wasting time
+
+## 📝 How I like to get feedback:
+- As soon as possible 
+- However the giver of feedback is most comfortable
+
+## 😱 I struggle with:
+- Facilitating/organizing meetings, haven't had to do a lot of that in the past
+
+## 🤝 The best way to help me:
+- Let me know if I'm ever doing/not doing anything you think I should/shouldn't be doing
+
+## 📈 I'd love to help you with:
+- Getting to do work that interests and excites you
+
+## 👽 Other things you might want to know:
+- I live on a schoolbus/RV that I converted and will be full time travelling until the end of 2022 with my wife Lauren and two dogs (Sadie and Piper)
+- I'm building a house in Charlotte, Vermont starting in May of 2022
+- I love being outside and in the mountains, most of my vacations are backpacking trips or hiking some mountain I've always wanted to hike
+- I have my pilot's license so am occasionally flying around 
+
 <!--
 **nweinmeister/nweinmeister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
