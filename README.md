@@ -23,6 +23,7 @@
 
 ## 📈 I'd love to help you with:
 - Getting to do work that interests and excites you
+- Helping non-devs get a deeper technical understanding of our app
 
 ## 👽 Other things you might want to know:
 - I live on a schoolbus/RV that I converted and will be full time travelling until the end of 2022 with my wife Lauren and two dogs (Sadie and Piper)
