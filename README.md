@@ -3,6 +3,9 @@
 ## ⚡ What energizes me:
 - Coffee
 - Complex problems
+- Working directly with the end users to see impacts first hand
+- Rapid prototyping
+- Deadlines especially when they come up last minute
 
 ## ☠️ What makes me grumpy:
 - Wasting time
@@ -13,6 +16,7 @@
 
 ## 😱 I struggle with:
 - Facilitating/organizing meetings, haven't had to do a lot of that in the past
+- Long meetings
 
 ## 🤝 The best way to help me:
 - Let me know if I'm ever doing/not doing anything you think I should/shouldn't be doing
