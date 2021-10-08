@@ -6,6 +6,7 @@
 - Working directly with the end users to see impacts first hand
 - Rapid prototyping
 - Deadlines especially when they come up last minute
+- Picking up new hobbies or skills
 
 ## ☠️ What makes me grumpy:
 - Wasting time
