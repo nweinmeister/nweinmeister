@@ -18,6 +18,7 @@
 ## 😱 I struggle with:
 - Facilitating/organizing meetings, haven't had to do a lot of that in the past
 - Long meetings
+- Rushing things/slowing down for details
 
 ## 🤝 The best way to help me:
 - Let me know if I'm ever doing/not doing anything you think I should/shouldn't be doing
